@@ -1,5 +1,5 @@
 # Step-by-Step WebGPU Graphics Programming (32) 
-## Create a torus Wireframe
+## Create a 3D Breather Surface
 
 This is the source code for the 32th part of a series YouTube videos on step-by-step WebGPU graphics programming.
 
